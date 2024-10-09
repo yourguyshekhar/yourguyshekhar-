@@ -35,13 +35,13 @@
 
 <h3 align="left">My Stats:</h3>
 <p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourguyshekhar&show_icons=true&locale=en&layout=compact" alt="yourguyshekhar" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourguyshekhar&layout=compact&hide=html&langs_count=5&theme=radical" alt="yourguyshekhar" />
 </p>
 
 <p align="center" style="margin-top: 20px;"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourguyshekhar&show_icons=true&locale=en" alt="yourguyshekhar" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourguyshekhar&show_icons=true&locale=en&theme=radical" alt="yourguyshekhar" />
 </p>
 
 <p align="center"> 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourguyshekhar&" alt="yourguyshekhar" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourguyshekhar&theme=radical" alt="yourguyshekhar" />
 </p>
