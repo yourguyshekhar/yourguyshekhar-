@@ -2,21 +2,32 @@
     <img align="center" alt="Project Demo" width="100%" src="https://raw.githubusercontent.com/yourguyshekhar/yourguyshekhar-/refs/heads/main/ezgif-6-dc6e911111.gif"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm yourguyshekhar</h1>
+<h1 align="center">Hi, I'm yourguyshekhar</h1>
 <h3 align="center">A passionate Computer Engineer from Nepal</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=yourguyshekhar&label=Profile%20views&color=0e75b6&style=flat" alt="yourguyshekhar" /> 
 </p>
 
-- 📫 How to reach me: **[yourguyshekhar@gmail.com](mailto:yourguyshekhar@gmail.com)**
+<h3 align="left">Contact:</h3>
+<p align="left">
+    Email: <a href="mailto:yourguyshekhar@gmail.com"><strong>yourguyshekhar@gmail.com</strong></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/yourguyshekhar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourguyshekhar" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/shekhar-bhatt-18v" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhar bhatt" height="30" width="40" /></a>
-    <a href="https://facebook.com/shekharbhatt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shekhar bhatt" height="30" width="40" /></a>
-    <a href="https://instagram.com/yourguyshekhar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourguyshekhar" height="30" width="40" /></a>
+    <a href="https://twitter.com/yourguyshekhar" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourguyshekhar" height="30" width="40" />
+    </a>
+    <a href="https://www.linkedin.com/in/shekhar-bhatt-18v" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhar bhatt" height="30" width="40" />
+    </a>
+    <a href="https://facebook.com/shekharbhatt" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shekhar bhatt" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/yourguyshekhar" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourguyshekhar" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
