@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/yourguyshekhar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourguyshekhar" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/shekharbhatt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhar bhatt" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/shekhar-bhatt-18v" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhar bhatt" height="30" width="40" /></a>
     <a href="https://facebook.com/shekharbhatt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shekhar bhatt" height="30" width="40" /></a>
     <a href="https://instagram.com/yourguyshekhar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourguyshekhar" height="30" width="40" /></a>
 </p>
